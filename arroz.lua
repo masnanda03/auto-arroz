@@ -1,5 +1,4 @@
 --[MUFFINN STORE]--
---{DON'T EDIT SCRIPT}--
 local registered_ids = {134611}
 
 function place(id,x,y)
