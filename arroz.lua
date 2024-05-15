@@ -1,5 +1,5 @@
 --[MUFFINN STORE]--
-local registered_ids = {134611, 44216, 101394}
+local registered_ids = {134611, 44216, 101394, 775453}
 
 function place(id,x,y)
     pkt = {}
