@@ -2,7 +2,7 @@
 local registered_ids = {
     134611, 44216, 
     101394, 775453,
-    788943
+    788943, 146424
 }
 
 function place(id,x,y)
